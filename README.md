@@ -82,6 +82,12 @@ This project utilizes COVID-19 data to analyze the spread of the virus, mortalit
 
 
 
+
+
+
+
+
+
 **7. Conclusion of the Project:**
 Through this project, we have gained valuable insights into the COVID-19 pandemic's impact on cases, deaths, and vaccinations worldwide. 
 We have observed significant variations in the severity of the pandemic across different regions and countries. By analyzing key metrics such as total cases, total deaths, and vaccination rates, we have identified high-risk areas and assessed the effectiveness of public health interventions. 
